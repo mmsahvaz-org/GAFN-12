@@ -79,7 +79,7 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇦 hysteria2-070e500d (Ukraine)",
+        "🇺🇦 hysteria2-f5d5491b (Ukraine)",
         "direct"
       ]
     },
@@ -87,7 +87,7 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇦 hysteria2-070e500d (Ukraine)"
+        "🇺🇦 hysteria2-f5d5491b (Ukraine)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,7 +99,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-070e500d (Ukraine)",
+      "tag": "🇺🇦 hysteria2-f5d5491b (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 49382,
       "password": "1045aedf-053c-4585-875d-e2fc3f3ea6dd",
